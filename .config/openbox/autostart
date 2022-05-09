@@ -1,0 +1,7 @@
+setxkbmap -layout "fr"
+xrandr --output HDMI-1-1 --primary --auto --output VGA-1-1 --auto --right-of HDMI-1-1  --output eDP-1-1 --auto --left-of HDMI-1-1
+nitrogen --restore &
+xcompmgr &
+tint2 -c ~/.config/tint2/bunsen/crunchbang.tint2rc &
+sleep 5s
+conky &
