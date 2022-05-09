@@ -4,7 +4,7 @@ Here are the dotfiles I use for my own lightweight configuration.
 
 Tired of having to pull windows throught screens, this config based on the BunsenLabs distro, allows to easily tile and move windows on multiple monitors. 
 
-![What it looks like](./screenshot.pngs)
+![What it looks like](./screenshot.png)
 
 ## What you need 
 
